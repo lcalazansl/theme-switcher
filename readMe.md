@@ -1,6 +1,6 @@
 # Theme Switcher
 
-A **THEME SWITCHER** static website with both ***light and dark mode*** and a *** solarised option***.
+A **THEME SWITCHER** static website with both ***light and dark mode*** and a ***solarised option***.
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="24" height="24"> HTML
 
