@@ -13,8 +13,6 @@ if (theme) {
   isSolar && body.classList.add('solar');
 }
 
-
-
 // Button Event Handlers
 darkButton.onclick = () => {
   body.classList.replace('light', 'dark');
