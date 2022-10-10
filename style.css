@@ -44,6 +44,7 @@ main {
   align-self: center;
   margin-left: calc((100% / 4) * .5);
   margin-right: calc((100% / 4) * .5);
+  padding-bottom: 2rem;
 }
 .avatar {
   margin: 2em 0 0;
